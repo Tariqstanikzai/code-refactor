@@ -18,8 +18,8 @@ Refactor the Horiseon site to have:
 * CSS
 
 ## Screenshot of Webpage
-![](assets/images/screenshot1.png)
-![](assets/images/screenshot2.png)
+![](Develop/assets/images/screenshot1.png)
+![](Develop/assets/images/screenshot2.png)
 ## Link to Deployed Application
 
 ## Links:
